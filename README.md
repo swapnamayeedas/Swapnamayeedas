@@ -18,10 +18,12 @@ I'm a passionate Computer Science graduate currently pursuing M.Tech in Informat
 - **Areas of Interest:** Software Development, Web Development
 
 ### 🚀 My Projects
-- ClipSense
-- FarmerSaathi
-- KistSync
-- DataToolkit
+
+- [ClipSense](https://github.com/swapnamayeedas/clipsense)
+- [FarmerSaathi](https://github.com/swapnamayeedas/farmersaathi)
+- [KistSync](https://github.com/swapnamayeedas/kistsync)
+- [DataToolkit](https://github.com/swapnamayeedas/DataToolkit)
+
 
 ### 🌐 Portfolio Website
 
